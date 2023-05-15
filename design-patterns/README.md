@@ -14,6 +14,7 @@ In this section you will find real life implementations of each design patter.
 |3.| [Builder](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Creational%20Design%20Patterns/builder)|Creational Design Patterns|:book:|:hourglass:|
 |4.| [Prototype](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Creational%20Design%20Patterns/prototype)|Creational Design Patterns|:book:|:hourglass:|
 |5.| [Singleton](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Creational%20Design%20Patterns/singleton)|Creational Design Patterns|:hourglass:|:hourglass:|
+||  ||||
 |6.| [Adapter](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Structural%20Design%20Patterns/adapter)|Structural Design Patterns|:hourglass:|:hourglass:|
 |7.| [Bridge](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Structural%20Design%20Patterns/bridge)|Structural Design Patterns|:hourglass:|:hourglass:|
 |8.| [Composite](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Structural%20Design%20Patterns/composite)|Structural Design Patterns|:hourglass:|:hourglass:|
