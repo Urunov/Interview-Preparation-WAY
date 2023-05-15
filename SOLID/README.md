@@ -3,10 +3,10 @@ SOLID principles are object-oriented design concepts relevant to software develo
 
 ## Study Plan 📚
 |No|Design Pattern|Status|Interview|
-|--|--------------|----|------|--------|
-|1.| [Single Responsibility Principle](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Single%20Responsibility%20Principle)|Creational Design Patterns|:heavy_check_mark:|
-|2.| [Open-Closed Principle](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Open-Closed%20Principle)|Creational Design Patterns|:heavy_check_mark:|
-|3.| [Liskov Substitution Principle](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Liskov%20Substitution%20Principle)|Creational Design Patterns|:hourglass:|
-|4.| [ Interface Segregation Principle](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Interface%20Segregation%20Principle)|Creational Design Patterns|:hourglass:|
-|5.| [Dependency Inversion Principle](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Dependency%20Inversion%20Principle)|Creational Design Patterns|:hourglass:|
+|--|--------------|----|--------|
+|1.| [Single Responsibility Principle](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Single%20Responsibility%20Principle)|:book:|:hourglass:|
+|2.| [Open-Closed Principle](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Open-Closed%20Principle)|:book:|:hourglass:|
+|3.| [Liskov Substitution Principle](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Liskov%20Substitution%20Principle)|:book:|:hourglass:|
+|4.| [ Interface Segregation Principle](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Interface%20Segregation%20Principle)|:book:|:hourglass:|
+|5.| [Dependency Inversion Principle](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Dependency%20Inversion%20Principle)|:book:|:hourglass:|
 
