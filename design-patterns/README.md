@@ -9,10 +9,10 @@ In this section you will find real life implementations of each design patter.
 
 |No|Design Pattern|Type|Status|Interview|
 |--|--------------|----|------|--------|
-|1.| [Factory Method](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Creational%20Design%20Patterns/factory-method)|Creational Design Patterns|:hourglass:|:hourglass:|
-|2.| [Abstract Factory](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Creational%20Design%20Patterns/abstract%20factory)|Creational Design Patterns|:hourglass:|:hourglass:|
-|3.| [Builder](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Creational%20Design%20Patterns/builder)|Creational Design Patterns|:hourglass:|:hourglass:|
-|4.| [Prototype](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Creational%20Design%20Patterns/prototype)|Creational Design Patterns|:hourglass:|:hourglass:|
+|1.| [Factory Method](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Creational%20Design%20Patterns/factory-method)|Creational Design Patterns|:book:|:hourglass:|
+|2.| [Abstract Factory](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Creational%20Design%20Patterns/abstract%20factory)|Creational Design Patterns|:book:|:hourglass:|
+|3.| [Builder](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Creational%20Design%20Patterns/builder)|Creational Design Patterns|:book:|:hourglass:|
+|4.| [Prototype](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Creational%20Design%20Patterns/prototype)|Creational Design Patterns|:book:|:hourglass:|
 |5.| [Singleton](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Creational%20Design%20Patterns/singleton)|Creational Design Patterns|:hourglass:|:hourglass:|
 |6.| [Adapter](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Structural%20Design%20Patterns/adapter)|Structural Design Patterns|:hourglass:|:hourglass:|
 |7.| [Bridge](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Structural%20Design%20Patterns/bridge)|Structural Design Patterns|:hourglass:|:hourglass:|
