@@ -7,28 +7,28 @@ _This resource based on [Dive into Design Patterns ](https://github.com/abbos012
 
 In this section you will find real life implementations of each design patter.
 
-|No|Design Pattern|Type|Status|Interview|
-|--|--------------|----|------|--------|
-|1.| [Factory Method](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Creational%20Design%20Patterns/factory-method)|Creational Design Patterns|:book:|:hourglass:|
-|2.| [Abstract Factory](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Creational%20Design%20Patterns/abstract%20factory)|Creational Design Patterns|:book:|:hourglass:|
-|3.| [Builder](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Creational%20Design%20Patterns/builder)|Creational Design Patterns|:book:|:hourglass:|
-|4.| [Prototype](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Creational%20Design%20Patterns/prototype)|Creational Design Patterns|:book:|:hourglass:|
-|5.| [Singleton](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Creational%20Design%20Patterns/singleton)|Creational Design Patterns|:hourglass:|:hourglass:|
+|No|Design Pattern|Source Code|Material|Status|Interview|
+|--|--------------|-----------|--------|------|---------|
+|1.| [Factory Method](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Creational%20Design%20Patterns/factory-method)|Creational Design Patterns|[practice]()|[resource]()|:book:|:hourglass:|
+|2.| [Abstract Factory](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Creational%20Design%20Patterns/abstract%20factory)|Creational Design Patterns|[practice]()|[resource]()|:book:|:hourglass:|
+|3.| [Builder](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Creational%20Design%20Patterns/builder)|Creational Design Patterns|[practice]()|[resource]()|:book:|:hourglass:|
+|4.| [Prototype](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Creational%20Design%20Patterns/prototype)|Creational Design Patterns|[practice]()|[resource]()|:book:|:hourglass:|
+|5.| [Singleton](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Creational%20Design%20Patterns/singleton)|Creational Design Patterns|[practice]()|[resource]()|:hourglass:|:hourglass:|
 ||  ||||
-|6.| [Adapter](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Structural%20Design%20Patterns/adapter)|Structural Design Patterns|:hourglass:|:hourglass:|
-|7.| [Bridge](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Structural%20Design%20Patterns/bridge)|Structural Design Patterns|:hourglass:|:hourglass:|
-|8.| [Composite](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Structural%20Design%20Patterns/composite)|Structural Design Patterns|:hourglass:|:hourglass:|
-|9.| [Decorator](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Structural%20Design%20Patterns/decorator)|Structural Design Patterns|:hourglass:|:hourglass:|
-|10.| [Facade](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Structural%20Design%20Patterns/facade)|Structural Design Patterns|:hourglass:|:hourglass:|
-|11.| [Flyweight](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Structural%20Design%20Patterns/flyweight)|Structural Design Patterns|:hourglass:|:hourglass:|
-|12.| [Proxy](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Structural%20Design%20Patterns/proxy)|Structural Design Patterns|:hourglass:|:hourglass:|
-|13.| [Chain of Responsibility](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Behavioral%20Design%20Patterns/chain%20of%20responsibility)|Behavioral Design Patterns|:hourglass:|:hourglass:|
-|14.| [Command](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Behavioral%20Design%20Patterns/command)|Behavioral Design Patterns|:hourglass:|:hourglass:|
-|15.| [Iterator](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Behavioral%20Design%20Patterns/iterator)|Behavioral Design Patterns|:hourglass:|:hourglass:|
-|16.| [Mediator](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Behavioral%20Design%20Patterns/mediator)|Behavioral Design Patterns|:hourglass:|:hourglass:|
-|17.| [Memento](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Behavioral%20Design%20Patterns/memento)|Behavioral Design Patterns|:hourglass:|:hourglass:|
-|18.| [Observer](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Behavioral%20Design%20Patterns/observer)|Behavioral Design Patterns|:hourglass:|:hourglass:|
-|19.| [State](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Behavioral%20Design%20Patterns/state)|Behavioral Design Patterns|:hourglass:|:hourglass:|
-|20.| [Strategy](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Behavioral%20Design%20Patterns/strategy)|Behavioral Design Patterns|:hourglass:|:hourglass:|
-|21.| [Template Method](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Behavioral%20Design%20Patterns/templete%20method)|Behavioral Design Patterns|:hourglass:|:hourglass:|
-|22.| [Visitor](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Behavioral%20Design%20Patterns/visitor)|Behavioral Design Patterns|:hourglass:|:hourglass:|
+|6.| [Adapter](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Structural%20Design%20Patterns/adapter)|Structural Design Patterns|[practice]()|[resource]()|:hourglass:|:hourglass:|
+|7.| [Bridge](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Structural%20Design%20Patterns/bridge)|Structural Design Patterns|[practice]()|[resource]()|:hourglass:|:hourglass:|
+|8.| [Composite](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Structural%20Design%20Patterns/composite)|Structural Design Patterns|[practice]()|[resource]()|:hourglass:|:hourglass:|
+|9.| [Decorator](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Structural%20Design%20Patterns/decorator)|Structural Design Patterns|[practice]()|[resource]()|:hourglass:|:hourglass:|
+|10.| [Facade](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Structural%20Design%20Patterns/facade)|Structural Design Patterns|[practice]()|[resource]()|:hourglass:|:hourglass:|
+|11.| [Flyweight](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Structural%20Design%20Patterns/flyweight)|Structural Design Patterns|[practice]()|[resource]()|:hourglass:|:hourglass:|
+|12.| [Proxy](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Structural%20Design%20Patterns/proxy)|Structural Design Patterns|[practice]()|[resource]()|:hourglass:|:hourglass:|
+|13.| [Chain of Responsibility](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Behavioral%20Design%20Patterns/chain%20of%20responsibility)|Behavioral Design Patterns|[practice]()|[resource]()|:hourglass:|:hourglass:|
+|14.| [Command](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Behavioral%20Design%20Patterns/command)|Behavioral Design Patterns|[practice]()|[resource]()|:hourglass:|:hourglass:|
+|15.| [Iterator](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Behavioral%20Design%20Patterns/iterator)|Behavioral Design Patterns|[practice]()|[resource]()|:hourglass:|:hourglass:|
+|16.| [Mediator](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Behavioral%20Design%20Patterns/mediator)|Behavioral Design Patterns|[practice]()|[resource]()|:hourglass:|:hourglass:|
+|17.| [Memento](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Behavioral%20Design%20Patterns/memento)|Behavioral Design Patterns|[practice]()|[resource]()|:hourglass:|:hourglass:|
+|18.| [Observer](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Behavioral%20Design%20Patterns/observer)|Behavioral Design Patterns|[practice]()|[resource]()|:hourglass:|:hourglass:|
+|19.| [State](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Behavioral%20Design%20Patterns/state)|Behavioral Design Patterns|[practice]()|[resource]()|:hourglass:|:hourglass:|
+|20.| [Strategy](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Behavioral%20Design%20Patterns/strategy)|Behavioral Design Patterns|[practice]()|[resource]()|:hourglass:|:hourglass:|
+|21.| [Template Method](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Behavioral%20Design%20Patterns/templete%20method)|Behavioral Design Patterns|[practice]()|[resource]()|:hourglass:|:hourglass:|
+|22.| [Visitor](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Behavioral%20Design%20Patterns/visitor)|Behavioral Design Patterns|[practice]()|[resource]()|:hourglass:|:hourglass:|
