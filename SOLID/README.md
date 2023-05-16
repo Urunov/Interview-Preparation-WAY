@@ -2,7 +2,7 @@
 SOLID principles are object-oriented design concepts relevant to software development. SOLID is an acronym for five other class-design principles: Single Responsibility Principle, Open-Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, and Dependency Inversion Principle.
 
 ## Study Plan 📚
-|No|Design Pattern|Status|Interview| Material | Source Code |
+|No|Design Pattern|Source Code|Material |Status|Interview|
 |--|--------------|----|--------|-------| -----------------|
 |1.| [Single Responsibility Principle](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Single%20Responsibility%20Principle)|:book:|:hourglass:|:book:|:hourglass:|
 |2.| [Open-Closed Principle](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Open-Closed%20Principle)|:book:|:hourglass:|:book:|:hourglass:|
