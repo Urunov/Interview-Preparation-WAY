@@ -8,8 +8,8 @@ _This resource based on [Dive into Design Patterns ](https://github.com/abbos012
 In this section you will find real life implementations of each design patter.
 
 ## Creational Design Patterns 
-|No|Design Pattern|Source Code|Material|Status|Interview|
-|--|--------------|-----------|--------|------|---------|
+|No|Design Pattern|Source Code|Practice|Material|Status|Interview|
+|--|--------------|-----------|--------|-------|-------|---------|
 |1.| [Factory Method](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Creational%20Design%20Patterns/factory-method)|Creational|[practice]()|[resource]()|:book:|:hourglass:|
 |2.| [Abstract Factory](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Creational%20Design%20Patterns/abstract%20factory)|Creational|[practice]()|[resource]()|:book:|:hourglass:|
 |3.| [Builder](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Creational%20Design%20Patterns/builder)|Creational|[practice]()|[resource]()|:book:|:hourglass:|
@@ -17,8 +17,8 @@ In this section you will find real life implementations of each design patter.
 |5.| [Singleton](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Creational%20Design%20Patterns/singleton)|Creational|[practice]()|[resource]()|:hourglass:|:hourglass:|
 
 ## Structural Design Patterns 
-|No|Design Pattern|Source Code|Material|Status|Interview|
-|--|--------------|-----------|--------|------|---------|
+|No|Design Pattern|Source Code|Practice|Material|Status|Interview|
+|--|--------------|-----------|--------|-------|-------|---------|
 |6.| [Adapter](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Structural%20Design%20Patterns/adapter)|Structural|[practice]()|[resource]()|:hourglass:|:hourglass:|
 |7.| [Bridge](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Structural%20Design%20Patterns/bridge)|Structural|[practice]()|[resource]()|:hourglass:|:hourglass:|
 |8.| [Composite](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Structural%20Design%20Patterns/composite)|Structural|[practice]()|[resource]()|:hourglass:|:hourglass:|
@@ -28,8 +28,8 @@ In this section you will find real life implementations of each design patter.
 |12.| [Proxy](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Structural%20Design%20Patterns/proxy)|Structural|[practice]()|[resource]()|:hourglass:|:hourglass:|
 
 ## Behavioral Design Patterns 
-|No|Design Pattern|Source Code|Material|Status|Interview|
-|--|--------------|-----------|--------|------|---------|
+|No|Design Pattern|Source Code|Practice|Material|Status|Interview|
+|--|--------------|-----------|--------|-------|-------|---------|
 |13.| [Chain of </br> Responsibility](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Behavioral%20Design%20Patterns/chain%20of%20responsibility)|Behavioral|[practice]()|[resource]()|:hourglass:|:hourglass:|
 |14.| [Command](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Behavioral%20Design%20Patterns/command)|Behavioral|[practice]()|[resource]()|:hourglass:|:hourglass:|
 |15.| [Iterator](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Behavioral%20Design%20Patterns/iterator)|Behavioral |[practice]()|[resource]()|:hourglass:|:hourglass:|
