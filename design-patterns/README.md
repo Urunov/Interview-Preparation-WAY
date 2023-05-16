@@ -7,6 +7,7 @@ _This resource based on [Dive into Design Patterns ](https://github.com/abbos012
 
 In this section you will find real life implementations of each design patter.
 
+## Creational Design Patterns 
 |No|Design Pattern|Source Code|Material|Status|Interview|
 |--|--------------|-----------|--------|------|---------|
 |1.| [Factory Method](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Creational%20Design%20Patterns/factory-method)|Creational Design Patterns|[practice]()|[resource]()|:book:|:hourglass:|
@@ -14,7 +15,10 @@ In this section you will find real life implementations of each design patter.
 |3.| [Builder](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Creational%20Design%20Patterns/builder)|Creational Design Patterns|[practice]()|[resource]()|:book:|:hourglass:|
 |4.| [Prototype](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Creational%20Design%20Patterns/prototype)|Creational Design Patterns|[practice]()|[resource]()|:book:|:hourglass:|
 |5.| [Singleton](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Creational%20Design%20Patterns/singleton)|Creational Design Patterns|[practice]()|[resource]()|:hourglass:|:hourglass:|
-||  ||||
+
+## Structural Design Patterns 
+|No|Design Pattern|Source Code|Material|Status|Interview|
+|--|--------------|-----------|--------|------|---------|
 |6.| [Adapter](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Structural%20Design%20Patterns/adapter)|Structural Design Patterns|[practice]()|[resource]()|:hourglass:|:hourglass:|
 |7.| [Bridge](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Structural%20Design%20Patterns/bridge)|Structural Design Patterns|[practice]()|[resource]()|:hourglass:|:hourglass:|
 |8.| [Composite](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Structural%20Design%20Patterns/composite)|Structural Design Patterns|[practice]()|[resource]()|:hourglass:|:hourglass:|
@@ -22,7 +26,11 @@ In this section you will find real life implementations of each design patter.
 |10.| [Facade](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Structural%20Design%20Patterns/facade)|Structural Design Patterns|[practice]()|[resource]()|:hourglass:|:hourglass:|
 |11.| [Flyweight](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Structural%20Design%20Patterns/flyweight)|Structural Design Patterns|[practice]()|[resource]()|:hourglass:|:hourglass:|
 |12.| [Proxy](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Structural%20Design%20Patterns/proxy)|Structural Design Patterns|[practice]()|[resource]()|:hourglass:|:hourglass:|
-|13.| [Chain of Responsibility](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Behavioral%20Design%20Patterns/chain%20of%20responsibility)|Behavioral Design Patterns|[practice]()|[resource]()|:hourglass:|:hourglass:|
+
+## Behavioral Design Patterns 
+|No|Design Pattern|Source Code|Material|Status|Interview|
+|--|--------------|-----------|--------|------|---------|
+|13.| [Chain of </br> Responsibility](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Behavioral%20Design%20Patterns/chain%20of%20responsibility)|Behavioral Design Patterns|[practice]()|[resource]()|:hourglass:|:hourglass:|
 |14.| [Command](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Behavioral%20Design%20Patterns/command)|Behavioral Design Patterns|[practice]()|[resource]()|:hourglass:|:hourglass:|
 |15.| [Iterator](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Behavioral%20Design%20Patterns/iterator)|Behavioral Design Patterns|[practice]()|[resource]()|:hourglass:|:hourglass:|
 |16.| [Mediator](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/design-patterns/Behavioral%20Design%20Patterns/mediator)|Behavioral Design Patterns|[practice]()|[resource]()|:hourglass:|:hourglass:|
