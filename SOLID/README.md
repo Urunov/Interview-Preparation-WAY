@@ -3,7 +3,7 @@ SOLID principles are object-oriented design concepts relevant to software develo
 
 ## Study Plan 📚
 |No|Design Pattern|Source Code|Material|Status|Interview|
-|--|--------------|----|--------|-------| -----------------|
+|--|--------------|-----------|--------|------|---------|
 |1.| [Single Responsibility Principle](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Single%20Responsibility%20Principle)|[practice](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Single%20Responsibility%20Principle/practice)|[resource](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Single%20Responsibility%20Principle/resource)|:book:|:hourglass:|
 |2.| [Open-Closed Principle](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Open-Closed%20Principle)|[practice](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Open-Closed%20Principle/practice)|[resource](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Open-Closed%20Principle/resource)|:book:|:hourglass:|
 |3.| [Liskov Substitution Principle](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Liskov%20Substitution%20Principle)|[practice](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Liskov%20Substitution%20Principle/practice)|[resource](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Liskov%20Substitution%20Principle/resource)|:book:|:hourglass:|
