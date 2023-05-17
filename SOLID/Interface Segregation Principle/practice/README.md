@@ -1,2 +1,2 @@
 
-## Interface Segregation Principle in TypeScript
+## Interface Segregation Principle in TypeScript.
