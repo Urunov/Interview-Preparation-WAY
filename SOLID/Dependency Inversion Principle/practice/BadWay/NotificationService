@@ -1,0 +1,12 @@
+class NotificationService {
+
+    private EmailSender emailSender;
+
+    public NotificationService(EmailSender emailSender) {
+        this.emailSender = emailSender;
+    }
+
+    public void sendNotification(String message) {
+        emailSender.sendEmail(message);
+    }
+}

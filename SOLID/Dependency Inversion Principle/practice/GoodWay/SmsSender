@@ -1,0 +1,8 @@
+class SmsSender implements MessageSender {
+
+    public void sendMessage(String message) {
+
+                                                                                // Логика отправки SMS
+        System.out.println("Sending SMS: " + message);
+    }
+}

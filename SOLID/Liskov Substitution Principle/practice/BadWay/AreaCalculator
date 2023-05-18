@@ -1,0 +1,16 @@
+class AreaCalculator {
+
+    public int calculateTotalArea(Rectangle[] rectangles) {
+
+        int totalArea = 0;
+
+        for (Rectangle rectangle : rectangles) {
+
+            rectangle.setWidth(5);
+            rectangle.setHeight(10);
+            totalArea += rectangle.calculateArea();
+        }
+
+        return totalArea;
+    }
+}

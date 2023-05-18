@@ -1,0 +1,8 @@
+class EmailSender {
+
+    public void sendEmail(String message) {
+
+                                                                      // Логика отправки сообщения по электронной почте
+        System.out.println("Sending email: " + message);
+    }
+}
