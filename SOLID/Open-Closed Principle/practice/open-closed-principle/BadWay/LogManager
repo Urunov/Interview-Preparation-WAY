@@ -1,0 +1,15 @@
+class LogManager {
+    public void doSomething()
+                                                                      // Выполнение некоторых действий
+        logToConsole("Something happened");                           // Использование конкретной реализации логирования
+    }
+
+    private void logToConsole(String message) {
+        System.out.println("Logging to console: " + message);
+    }
+
+    private void logToFile(String message) {
+                                                                     // Логика записи в файл
+        System.out.println("Logging to file: " + message);
+    }
+}

@@ -1,0 +1,7 @@
+class FileLogger implements Logger {
+
+    public void log(String message) {
+                                                                         // Логика записи в файл
+        System.out.println("Logging to file: " + message);
+    }
+}

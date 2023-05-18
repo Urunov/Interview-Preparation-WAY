@@ -1,0 +1,13 @@
+class LogManager {
+
+    private Logger logger;
+
+    public LogManager(Logger logger) {
+        this.logger = logger;
+    }
+
+    public void doSomething() {
+                                                                    // Выполнение некоторых действий
+        logger.log("Something happened");                           // Использование логгера
+    }
+}
