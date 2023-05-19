@@ -18,7 +18,7 @@ In software engineering, a design pattern is a general repeatable solution to a 
 A design pattern isn't a finished design that can be transformed directly into code.
 It is a description or template for how to solve a problem that can be used in many different situations.
 
-_This resource based on [Dive into Design Patterns ](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/design-patterns/Resource%20Books/Dive%20into%20Design%20Patterns.pdf)_
+_This resource based on [Dive into Design Patterns ](https://github.com/Urunov/Interview-Preparation-WAY/tree/master/design-patterns/Resource%20Books)_
 
 In this section you will find real life implementations of each design patter.
 
