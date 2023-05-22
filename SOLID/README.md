@@ -10,3 +10,11 @@ SOLID principles are object-oriented design concepts relevant to software develo
 |4.| [ Interface Segregation Principle](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Interface%20Segregation%20Principle)|[practice](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Interface%20Segregation%20Principle/practice)|[resource](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Interface%20Segregation%20Principle/resource)|✅|✅|
 |5.| [Dependency Inversion Principle](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Dependency%20Inversion%20Principle)|[practice](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Dependency%20Inversion%20Principle/practice)|[resource](https://github.com/Urunov/Interview-Preparation-WAY/tree/abbos/SOLID/Dependency%20Inversion%20Principle/resource)|✅|✅|
 
+## Interview 📑
+
+We have invew based on these [questions](). </br>
+Module answers are [here]().
+
+
+
+
