@@ -56,4 +56,17 @@ In this section you will find real life implementations of each design patter.
 |21.| [Template </br> Method](https://github.com/Urunov/Interview-Preparation-WAY/tree/master/design-patterns/Behavioral%20Design%20Patterns/templete%20method)|Behavioral |[practice](https://github.com/Urunov/Interview-Preparation-WAY/tree/master/design-patterns/Behavioral%20Design%20Patterns/templete%20method/practice)|[resource](https://github.com/Urunov/Interview-Preparation-WAY/tree/master/design-patterns/Behavioral%20Design%20Patterns/templete%20method/resource)|:hourglass:|:hourglass:|
 |22.| [Visitor](https://github.com/Urunov/Interview-Preparation-WAY/tree/master/design-patterns/Behavioral%20Design%20Patterns/visitor)|Behavioral|[practice](https://github.com/Urunov/Interview-Preparation-WAY/tree/master/design-patterns/Behavioral%20Design%20Patterns/visitor/practice)|[resource](https://github.com/Urunov/Interview-Preparation-WAY/tree/master/design-patterns/Behavioral%20Design%20Patterns/visitor/resource)|:hourglass:|:hourglass:|
 
+
 ## Operation Systems
+
+
+<br/>
+
+|No|Book / Course|Resource|Page / Website|Status|
+|--|----|--------|----|------|
+|1|Complete Linux Training Course (Udemy course) :arrow_forward:|[Complete Linux Training Course (Udemy course)](https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/)|<p align="center"> ```udemy.com```</p>|:hourglass:|
+|2|Operating System Tutorial|[Operating System Tutorial](https://www.geeksforgeeks.org/operating-systems/?ref=ghm)|<p align="center">  ```www.geeksforgeeks.org```</p>|:hourglass:|
+|3| Operation System concepts |[Operation System concepts](https://github.com/abbos0123/Operation-Systems/tree/main/Operating%20System%20Concepts)|<p align="center">944 </p>|:hourglass:|
+|4|Operation Systems Tutorials|[Operating Systems Tutorial](https://www.javatpoint.com/operating-system)|<p align="center"> ```www.javatpoint.com``` </p>|:hourglass:|
+|5|Linux Bible By Christopher Negus |[Linux Bible By Christopher Negus](https://github.com/abbos0123/Operation-Systems/tree/main/Linux%20Bible%20By%20Christopher%20Negus)|<p align="center">858 </p>|:hourglass:|
+|6|Linux Kernel Development|[Linux Kernel Development](https://github.com/abbos0123/Operation-Systems/tree/main/Linux%20Kernel%20Development%2C%203rd%20Edition)|<p align="center">468</p>|:hourglass:|
