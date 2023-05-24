@@ -78,3 +78,4 @@ In this section you will find real life implementations of each design patter.
 
 ## Most Recommended books
 1. Thinking in [Java](https://people.inf.elte.hu/delsaai/java/6Eckel%20-%20Thinking%20in%20Java%20(4th%202006)%20p1079.pdf) 
+2. Dive into Design [Patterns](https://github.com/Urunov/Interview-Preparation-WAY/tree/master/design-patterns/Resource%20Books)
