@@ -4,6 +4,9 @@
 ## SOLID 
 SOLID principles are object-oriented design concepts relevant to software development. SOLID is an acronym for five other class-design principles: Single Responsibility Principle, Open-Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, and Dependency Inversion Principle.
 
+
+
+
 ## Study Plan 📚
 |No|Design Pattern|Source Code|Material|Status|Interview [Q&A](https://github.com/Urunov/Interview-Preparation-WAY/tree/master/SOLID)|
 |--|--------------|-----------|--------|------|---------|
@@ -70,3 +73,8 @@ In this section you will find real life implementations of each design patter.
 |4|Operation Systems Tutorials|[Operating Systems Tutorial](https://www.javatpoint.com/operating-system)|<p align="center"> ```www.javatpoint.com``` </p>|:hourglass:|
 |5|Linux Bible By Christopher Negus |[Linux Bible By Christopher Negus](https://github.com/abbos0123/Operation-Systems/tree/main/Linux%20Bible%20By%20Christopher%20Negus)|<p align="center">858 </p>|:hourglass:|
 |6|Linux Kernel Development|[Linux Kernel Development](https://github.com/abbos0123/Operation-Systems/tree/main/Linux%20Kernel%20Development%2C%203rd%20Edition)|<p align="center">468</p>|:hourglass:|
+
+
+
+## Most Recommended books
+1. Thinking in [Java](https://people.inf.elte.hu/delsaai/java/6Eckel%20-%20Thinking%20in%20Java%20(4th%202006)%20p1079.pdf) 
