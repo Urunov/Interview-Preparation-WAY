@@ -1,12 +1,12 @@
 
 # Interview Preparation Materials && Code
 
+## OCP (Oracle Certified Professional) 17 
+
+[The OCP Java 17 SE certification exam](https://www.wiley.com/en-mx/OCP+Oracle+Certified+Professional+Java+SE+17+Developer+Study+Guide%3A+Exam+1Z0+829-p-9781119864585) covers many crucial topics for a Java programmer to know. Some leading topics include Java class design, generics, exception handling, functional interfaces, concurrency, I/O operations, and new features of Java 17, such as pattern matching, switch expressions, and sealed classes. It is essential to have a solid understanding of these topics and to be able to apply them in practical scenarios.
 
 ## SOLID 
 SOLID principles are object-oriented design concepts relevant to software development. SOLID is an acronym for five other class-design principles: Single Responsibility Principle, Open-Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, and Dependency Inversion Principle.
-
-## COMING SOON: ROAD MAP for SOFTWARE ENGINEER
-
 
 ## Study Plan 📚
 |No|Design Pattern|Source Code|Material|Status|Interview [Q&A](https://github.com/Urunov/Interview-Preparation-WAY/tree/master/SOLID)|
@@ -60,12 +60,9 @@ In this section you will find real life implementations of each design patter.
 |21.| [Template </br> Method](https://github.com/Urunov/Interview-Preparation-WAY/tree/master/design-patterns/Behavioral%20Design%20Patterns/templete%20method)|Behavioral |[practice](https://github.com/Urunov/Interview-Preparation-WAY/tree/master/design-patterns/Behavioral%20Design%20Patterns/templete%20method/practice)|[resource](https://github.com/Urunov/Interview-Preparation-WAY/tree/master/design-patterns/Behavioral%20Design%20Patterns/templete%20method/resource)|:hourglass:|:hourglass:|
 |22.| [Visitor](https://github.com/Urunov/Interview-Preparation-WAY/tree/master/design-patterns/Behavioral%20Design%20Patterns/visitor)|Behavioral|[practice](https://github.com/Urunov/Interview-Preparation-WAY/tree/master/design-patterns/Behavioral%20Design%20Patterns/visitor/practice)|[resource](https://github.com/Urunov/Interview-Preparation-WAY/tree/master/design-patterns/Behavioral%20Design%20Patterns/visitor/resource)|:hourglass:|:hourglass:|
 
-
+## COMING SOON: ROAD MAP for SOFTWARE ENGINEER
 ## Operation Systems
-
-
 <br/>
-
 |No|Book / Course|Resource|Page / Website|Status|
 |--|----|--------|----|------|
 |1|Complete Linux Training Course (Udemy course) :arrow_forward:|[Complete Linux Training Course (Udemy course)](https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/)|<p align="center"> ```udemy.com```</p>|:hourglass:|
