@@ -3,7 +3,7 @@
  
 |No|Computer Science Subjects|Resources|Status|
 |--|-------------------------|---------|------|
-|1.|Java|[Java](https://github.com/abbos0123/Java)|:book:|
+|1.|Java|[Java](https://github.com/Urunov/Interview-Preparation-WAY/tree/master/Books/JavaCore)|:book:|
 |2.|Spring|[Spring]()|:book:|
 
 
