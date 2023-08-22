@@ -1,6 +1,4 @@
-## Head First Java :books:
-
-### Study Plan 📚
+### Study Plan :📑
 
 |Chapter|Name|Practice(code)|Related Resource|Status|
 |--|----|-------|------|---------|
