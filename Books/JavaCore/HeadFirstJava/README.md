@@ -1,5 +1,5 @@
-### Study Plan :📑
-
+### Reading Plan :📑
+ 
 |Chapter|Name|Practice(code)|Related Resource|Status|
 |--|----|-------|------|---------|
 |1.|Dive in A Quick Dip| | |✅|
