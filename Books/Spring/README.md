@@ -1,4 +1,4 @@
-## Recource
+## Resource
 
 |No|Book name|Resources|Status|
 |--|---------|---------|------|
