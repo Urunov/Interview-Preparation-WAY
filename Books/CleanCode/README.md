@@ -14,9 +14,9 @@
 |10.|Classes|135|⌛️|
 |11.|Systems|153|⌛️|
 |12.|Emergency|171|⌛️|
-|13.|Concurrency||⌛️|
-|14.|Successive Refinement||⌛️|
-|15.|JUnit Internals||⌛️|
-|16.|Refactoring SerialDate||⌛️|
-|17.|Smells and Heuristic||⌛️|
-|18.|Concurrency II||⌛️|
+|13.|Concurrency|177|⌛️|
+|14.|Successive Refinement|193|⌛️|
+|15.|JUnit Internals|251|⌛️|
+|16.|Refactoring SerialDate|267|⌛️|
+|17.|Smells and Heuristic|285|⌛️|
+|18.|Concurrency II|317|⌛️|
