@@ -15,7 +15,7 @@
     Java source code is compiling by Java Compiler
 </dev>
 
-<h3 style = "color: red"> Step 2. Bytecode</h3>
+<h3 style = "color: red"> Step 3. Bytecode</h3>
 
 <dev style = "color: darkgreen">
     Transformed to bytecode by Java compiler
