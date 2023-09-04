@@ -1,6 +1,7 @@
 ## Steps from Java code to bytecode
 
-![steps-from-java-code-to-bytecode]()
+![compiler](https://github.com/Urunov/Interview-Preparation-WAY/assets/81904995/962a0591-3757-4145-8b23-bfb65e6f82e6)
+
 
 <h3 style = "color: red"> Step 1. Written code</h3>
 
@@ -14,7 +15,7 @@
     Java source code is compiling by Java Compiler
 </dev>
 
-<h3 style = "color: red"> Step 2. Bytecode</h3>
+<h3 style = "color: red"> Step 3. Bytecode</h3>
 
 <dev style = "color: darkgreen">
     Transformed to bytecode by Java compiler
