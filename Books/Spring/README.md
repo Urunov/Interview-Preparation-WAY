@@ -6,7 +6,7 @@
 |2.|Spring Security|[Spring security](https://github.com/Urunov/Interview-Preparation-WAY/tree/master/Books/Spring/SpringSecurity)|📘|
 |3.|Spring Microservice |[Spring Microservice](https://github.com/Urunov/Interview-Preparation-WAY/tree/master/Books/Spring/SpringMicroservice)|📘|
 
-### Link for Good Resources
+### Recommend Resources
 
 | No |Source Name|Resource|
 |:--:|:---------:|:------:|
