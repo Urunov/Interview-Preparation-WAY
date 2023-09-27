@@ -1,3 +1,10 @@
+#  Java Concurrency in Practice :coffee: :arrows_counterclockwise:
+
+This book covers a very deep and subtle topic in a very clear and concise way, making it the
+perfect Java Concurrency reference manual. Each page is filled with the problems (and solutions!)
+that programmers struggle with every day. Effectively exploiting concurrency is becoming more and more important
+now that Moore's Law is delivering more cores but not faster cores, and this book will show you how to do it.
+
 ### Reading Plan 📘
 
 |Chapter|Name|Status|
