@@ -9,11 +9,11 @@ now that Moore's Law is delivering more cores but not faster cores, and this boo
 
 |Chapter|Name|Status|
 |--|----|---------|
-|1.|Introduction|⌛|
-|2.|Tread Safety|⌛|
-|3.|Sharing Objects|⌛|
-|4.|Composing Objects|⌛|
-|5.|Building Blocks|⌛|
+|1.|Introduction|📖|
+|2.|Tread Safety|📖|
+|3.|Sharing Objects|📖|
+|4.|Composing Objects|📖|
+|5.|Building Blocks|📖|
 |6.|Task Execution|⌛|
 |7.|Cancellation and Shutdown|⌛|
 |8.|Applying Tread Pools|⌛|
