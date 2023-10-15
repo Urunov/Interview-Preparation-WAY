@@ -19,7 +19,7 @@ Core Java covers all the basic and fundamental Java programming language concept
  
 |Chapter|Name|Status|
 |--|----|---------|
-|1.|[Dive in A Quick Dip](link)|✅|
+|1.|[Dive in A Quick Dip](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Java/JavaCore/HeadFirstJava/HeadFirstResource/Chapter-1.%20What%20is%20Java.%20Java%20working%20process..pdf)|✅|
 |2.|Classes and Objects|✅|
 |3.|Primitives and References|✅|
 |4.|Methods use Instance Variables|✅|
