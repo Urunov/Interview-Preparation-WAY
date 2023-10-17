@@ -6,7 +6,7 @@ Advanced Java is everything that goes beyond Core Java – most importantly the 
 
 |No|Book name|Resources|status|
 |:-:|:------:|:-------:|:----:|
-|1. | Java Concurrency and Multithreading| [url](https://github.com/Urunov/Interview-Preparation-WAY/tree/master/Books/Java/JavaAdvanced/Java-Concurrency-and-Multithreading)|⌛|
+|1. | Java Concurrency and Multithreading| [url](https://github.com/Urunov/Interview-Preparation-WAY/tree/master/Books/Java/JavaAdvanced/Java-Concurrency-and-Multithreading)|📖|
 |2. | Modern Java In Action| [url](https://github.com/Urunov/Interview-Preparation-WAY/tree/master/Books/Java/JavaAdvanced/ModernJavaInAction)|⌛|
 |3. |Functional Programming in Java| [url](https://github.com/Urunov/Interview-Preparation-WAY/tree/master/Books/Java/JavaAdvanced/FunctinalProgrammingInJava)|⌛|
 |4. |Data Structures & Algorithms In Java| [url](https://github.com/Urunov/Interview-Preparation-WAY/tree/master/Books/Java/JavaAdvanced/DataStructures%26AlgorithmsInJava)|⌛|
