@@ -1,13 +1,14 @@
 # Head First Java? ☕ 
+
 It is a part of the Java programming language that one can use for developing or creating a general-purpose app. 
 Its main focus is to build such general applications. The J2SE (Java Standard Edition) is known as Core Java. 
 It mainly covers concepts of object-oriented programming (OOP). Its main pillars are inheritance, polymorphism, encapsulation, and abstraction. 
 These are:
 
- - Inheritance – It allows one to make use of the already existing class without even writing the code from the very beginning. It thus ensures code reusability in a better way.
- - Polymorphism – It allows the writing of code in a certain way to make the object behave in multiple ways.
- - Encapsulation – It combines methods and data into a single unit.
- - Abstraction – It allows the writing of a code in a way that hides the details of implementation. It, in turn, reduces the complexity. Allows writing the code in a way that hides the 
+ - <b>Inheritance</b> – It allows one to make use of the already existing class without even writing the code from the very beginning. It thus ensures code reusability in a better way.
+ - <b>Polymorphism</b> – It allows the writing of code in a certain way to make the object behave in multiple ways.
+ - <b>Encapsulation</b> – It combines methods and data into a single unit.
+ - <b>Abstraction</b> – It allows the writing of a code in a way that hides the details of implementation. It, in turn, reduces the complexity. Allows writing the code in a way that hides the 
  implementation details to reduce complexity.
  
 As an addition, Core Java also covers concepts like AWT, threading, swing, and collections. AWT and swing help in building powerful GUIs (Graphical User Interfaces). 
@@ -17,23 +18,23 @@ Core Java covers all the basic and fundamental Java programming language concept
 
 ### Reading Plan :📑
  
-|Chapter|Name|Status|
-|--|----|---------|
-|1.|[Dive in A Quick Dip](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Java/JavaCore/HeadFirstJava/HeadFirstResource/Chapter-1.%20What%20is%20Java.%20Java%20working%20process..pdf)|✅|
-|2.|Classes and Objects|✅|
-|3.|Primitives and References|✅|
-|4.|Methods use Instance Variables|✅|
-|5.|Writing A Program |✅|
-|6.|Get to Know The Java API|✅|
-|7.|Inheritance and Polymorphism|✅|
-|8.|Interfaces and Abstract Classes|✅|
-|9.|Constructors And Garbage Collection|✅|
-|10.|Numbers and Statics|✅|
-|11.|Exception Handling|✅|
-|12.|Getting GUI|✅|
-|13.|Using Swing|✅|
-|14.|Serialization and File I/O|✅|
-|15.|Networking and Threads|✅|
-|16.|Collections and Generics|✅|
-|17.|Package, Jars and Deployment|✅|
-|18.|Remote Deployment with RMI|✅|
+| Chapter  |                                                                                                                                                                                 Name                                                                                                                                                                                  | Status |
+|:--------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
+|    1.    |                                                                               [Dive in A Quick Dip](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Java/JavaCore/HeadFirstJava/HeadFirstResource/Chapter-1.%20What%20is%20Java.%20Java%20working%20process..pdf)                                                                               |   ✅    |
+|    2.    |                                                                                        [Classes and Objects](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Java/JavaCore/HeadFirstJava/HeadFirstResource/Chapter-2.%20A%20Trip%20to%20Objectville.pdf)                                                                                        |   ✅    |
+|    3.    |                                                                                      [Primitives and References](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Java/JavaCore/HeadFirstJava/HeadFirstResource/Chapter-3.%20Know%20Your%20Variables..pdf)                                                                                       |   ✅    |
+|    4.    |                                                                                      [Methods use Instance Variables](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Java/JavaCore/HeadFirstJava/HeadFirstResource/Chapter-4.%20Objects%20Behave.%20.pdf)                                                                                      |   ✅    |
+|    5.    |                                              [Writing A Program](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Java/JavaCore/HeadFirstJava/HeadFirstResource/Chapter-5.%20%D0%9E%D1%81%D0%BE%D0%B1%D0%BE%20%D0%BC%D0%BE%D1%89%D0%BD%D1%8B%D0%B5%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B.%20.pdf)                                               |   ✅    |
+|    6.    |                       [Get to Know The Java API](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Java/JavaCore/HeadFirstJava/HeadFirstResource/Chapter-6.%20%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8%20JAVA.%20.pdf)                       |   ✅    |
+|    7.    |                                                               [Inheritance and Polymorphism](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Java/JavaCore/HeadFirstJava/HeadFirstResource/Chapter-7.%20Better%20Living%20in%20Objectville.%20Java%20Memory%20Management.%20.pdf)                                                               |   ✅    |
+|    8.    |                                                                           [Interfaces and Abstract Classes](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Java/JavaCore/HeadFirstJava/HeadFirstResource/Chapter-8.%20Interfaces%20and%20Abstract%20classes.%20.pdf)                                                                           |   ✅    |
+|    9.    |                                                                                                                                                               [Constructors And Garbage Collection](#)                                                                                                                                                                |   ✅    |
+|   10.    |                                                                                             [Numbers and Statics](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Java/JavaCore/HeadFirstJava/HeadFirstResource/Chapter-10.%20Numbers%20Matter.pdf)                                                                                             |   ✅    |
+|   11.    |                                                                                             [Exception Handling](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Java/JavaCore/HeadFirstJava/HeadFirstResource/Chapter-11.%20Risky%20Behavior..pdf)                                                                                             |   ✅    |
+|   12.    |                                                                                                                                                                           [Getting GUI](#)                                                                                                                                                                            |   ✅    |
+|   13.    |                                                                                                                                                                           [Using Swing](#)                                                                                                                                                                            |   ✅    |
+|   14.    |                                                                                                                                                                    [Serialization and File I/O](#)                                                                                                                                                                    |   ✅    |
+|   15.    |                                                                                         [Networking and Threads](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Java/JavaCore/HeadFirstJava/HeadFirstResource/Chapter-15.%20Make%20a%20Connection.pdf)                                                                                         |   ✅    |
+|   16.    |                                                                                         [ Collections and Generics](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Java/JavaCore/HeadFirstJava/HeadFirstResource/Chapter-16.%20Data%20Structures..pdf)                                                                                         |   ✅    |
+|   17.    |                                                   [Package, Jars and Deployment](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Java/JavaCore/HeadFirstJava/HeadFirstResource/Chapter-17.%20%D0%92%D1%8B%D0%BF%D1%83%D1%81%D1%82%D0%B8%20%D1%81%D0%B2%D0%BE%D0%B9%20%D0%BA%D0%BE%D0%B4.pdf)                                                    |   ✅    |
+|   18.    |                                                                                      [Remote Deployment with RMI](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Java/JavaCore/HeadFirstJava/HeadFirstResource/Chapter-18.%20Distributed%20Computing.pdf)                                                                                      |   ✅    |
