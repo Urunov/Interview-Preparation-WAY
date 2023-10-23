@@ -10,8 +10,8 @@ now that Moore's Law is delivering more cores but not faster cores, and this boo
 | Chapter |Name|Status|
 |--------|----|---------|
 | 1.     |Introduction|📖|
-| 2.     |Tread Safety|📖|
-| 3.     |Sharing Objects|📖|
+| 2.     |[Tread Safety](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Java/JavaAdvanced/Java-Concurrency-and-Multithreading/Java-Concurrency-In-Practice/JavaConcurrencyInPracticeResources/Chapter-2.%20Thread%20Safety.pdf)|✅|
+| 3.     |[Sharing Objects](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Java/JavaAdvanced/Java-Concurrency-and-Multithreading/Java-Concurrency-In-Practice/JavaConcurrencyInPracticeResources/Chapter-3.%20Sharing%20Objects.pdf)|✅|
 | 4.     |Composing Objects|📖|
 | 5.     |Building Blocks|📖|
 | 6.     |Task Execution|⌛|
