@@ -7,21 +7,21 @@ now that Moore's Law is delivering more cores but not faster cores, and this boo
 
 ### Reading Plan 📘
 
-| Chapter |Name|Status|
-|--------|----|---------|
-| 1.     |[Introduction](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Java/JavaAdvanced/Java-Concurrency-and-Multithreading/Java-Concurrency-In-Practice/JavaConcurrencyInPracticeResources/Chapter-1.%20Thread%20Safety.pdf)|✅|
-| 2.     |[Tread Safety](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Java/JavaAdvanced/Java-Concurrency-and-Multithreading/Java-Concurrency-In-Practice/JavaConcurrencyInPracticeResources/Chapter-2.%20Thread%20Safety.pdf)|✅|
-| 3.     |[Sharing Objects](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Java/JavaAdvanced/Java-Concurrency-and-Multithreading/Java-Concurrency-In-Practice/JavaConcurrencyInPracticeResources/Chapter-3.%20Sharing%20Objects.pdf)|✅|
-| 4.     |[Composing Objects](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Java/JavaAdvanced/Java-Concurrency-and-Multithreading/Java-Concurrency-In-Practice/JavaConcurrencyInPracticeResources/Chapter-4.%20Composing%20Objects.%20.pdf)|✅|
-| 5.     |[Building Blocks](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Java/JavaAdvanced/Java-Concurrency-and-Multithreading/Java-Concurrency-In-Practice/JavaConcurrencyInPracticeResources/Chapter-5.%20Building%20Blocks.pdf)|✅|
-| 6.     |Task Execution|📖|
-| 7.     |Cancellation and Shutdown|📖|
-| 8.     |Applying Tread Pools|⌛|
-| 9.     |GUI Application|⌛|
-| 10.    |Avoiding Liveness Hazards|⌛|
-| 11.    |Performance and Scalability|⌛|
-| 12.    |Testing Concurrent Programs|⌛|
-| 13.    |Explicit Locks|⌛|
-| 14.    |Building Custom Synchronizers|⌛|
-| 15.    |Atomic Variables and Nonblocking Synchronization|⌛|
-| 16.    |The Java Memory Model|⌛|
+| Chapter | Name                                                                                                                                                                                                                                                                         |Status|
+|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
+| 1.     | [Introduction](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Java/JavaAdvanced/Java-Concurrency-and-Multithreading/Java-Concurrency-In-Practice/JavaConcurrencyInPracticeResources/Chapter-1.%20Thread%20Safety.pdf)                                 |✅|
+| 2.     | [Tread Safety](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Java/JavaAdvanced/Java-Concurrency-and-Multithreading/Java-Concurrency-In-Practice/JavaConcurrencyInPracticeResources/Chapter-2.%20Thread%20Safety.pdf)                                 |✅|
+| 3.     | [Sharing Objects](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Java/JavaAdvanced/Java-Concurrency-and-Multithreading/Java-Concurrency-In-Practice/JavaConcurrencyInPracticeResources/Chapter-3.%20Sharing%20Objects.pdf)                            |✅|
+| 4.     | [Composing Objects](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Java/JavaAdvanced/Java-Concurrency-and-Multithreading/Java-Concurrency-In-Practice/JavaConcurrencyInPracticeResources/Chapter-4.%20Composing%20Objects.%20.pdf)                    |✅|
+| 5.     | [Building Blocks](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Java/JavaAdvanced/Java-Concurrency-and-Multithreading/Java-Concurrency-In-Practice/JavaConcurrencyInPracticeResources/Chapter-5.%20Building%20Blocks.pdf)                            |✅|
+| 6.     | [Task Execution](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Java/JavaAdvanced/Java-Concurrency-and-Multithreading/Java-Concurrency-In-Practice/JavaConcurrencyInPracticeResources/Chapter-6.%20Completing%20tasks.pdf)                            |✅|
+| 7.     | [Cancellation and Shutdown](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Java/JavaAdvanced/Java-Concurrency-and-Multithreading/Java-Concurrency-In-Practice/JavaConcurrencyInPracticeResources/Chapter-7.%20Cancellation%20and%20Shutdown.pdf)      |✅|
+| 8.     | [Applying Tread Pools](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Java/JavaAdvanced/Java-Concurrency-and-Multithreading/Java-Concurrency-In-Practice/JavaConcurrencyInPracticeResources/Chapter-8%20Applying%20Thread%20Pools.pdf)                |⌛|
+| 9.     | [GUI Application](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Java/JavaAdvanced/Java-Concurrency-and-Multithreading/Java-Concurrency-In-Practice/JavaConcurrencyInPracticeResources/Chapter-9.%20Single%20Thread.pdf)                              |⌛|
+| 10.    | [Avoiding Liveness Hazards](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Java/JavaAdvanced/Java-Concurrency-and-Multithreading/Java-Concurrency-In-Practice/JavaConcurrencyInPracticeResources/Chapter-10.%20Avoiding%20Liviness%20Hazards.pdf)     |⌛|
+| 11.    | [Performance and Scalability](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Java/JavaAdvanced/Java-Concurrency-and-Multithreading/Java-Concurrency-In-Practice/JavaConcurrencyInPracticeResources/Chapter-11.%20Performance%20and%20Scalability.pdf) |⌛|
+| 12.    | [Testing Concurrent Programs](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Java/JavaAdvanced/Java-Concurrency-and-Multithreading/Java-Concurrency-In-Practice/JavaConcurrencyInPracticeResources/Chapter-12.%20Testing%20Concurrent%20Programs.pdf)                                                                                                                                                                                                                                              |⌛|
+| 13.    | Explicit Locks                                                                                                                                                                                                                                                               |⌛|
+| 14.    | Building Custom Synchronizers                                                                                                                                                                                                                                                |⌛|
+| 15.    | Atomic Variables and Nonblocking Synchronization                                                                                                                                                                                                                             |⌛|
+| 16.    | The Java Memory Model                                                                                                                                                                                                                                                        |⌛|
