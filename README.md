@@ -1,5 +1,5 @@
 
-## WAY to Improvement Knowledges and Experiences ( ПУТЬ улучшить знания и опыт) 📚
+## WAY to Improvement Knowledges and Experiences (ПУТЬ к улучшение знании и опыта) 📚
  200 books and materials need to reads and to learn in this session, hopefully we expected and recommended ~! Happy to Learn ...AGAIN and AGAIN.
 
 |  No  | Computer Science Subjects  |                                                  Resources                                                  | Status  |
