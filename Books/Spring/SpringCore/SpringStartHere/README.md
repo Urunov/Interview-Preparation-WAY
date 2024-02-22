@@ -2,9 +2,9 @@ Reading Plan 📘
 
 |Chapter|Name|Status|
 |--|----|---------|
-|1.|Spring in the real world |⌛|
-|2.|The Spring context: Defining beans|⌛|
-|3.|The Spring context: Wiring beans|⌛|
+|1.|Spring in the real world |✔️|
+|2.|The Spring context: Defining beans|✔️|
+|3.|The Spring context: Wiring beans|📖|
 |4.|The Spring context: Using abstractions|⌛|
 |5.|The Spring context: Bean scopes and life cycle|⌛|
 |6.|Using aspects with Spring AOP|⌛|
