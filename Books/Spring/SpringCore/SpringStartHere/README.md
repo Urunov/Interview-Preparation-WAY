@@ -12,8 +12,8 @@ Reading Plan 📘
 |8.|Implementing web apps with Spring Boot and Spring MVC|📖|
 |9.|Using the Spring web scopes|📖|
 |10.|Implementing REST services|📖|
-|11.|Consuming REST endpoints|⌛|
-|12.|Using data sources in Spring apps|⌛|
-|13.|Using transactions in Spring apps|⌛|
-|14.|Implementing data persistence with Spring Data|⌛|
-|15.|Testing your Spring app|⌛|
+|11.|Consuming REST endpoints|📖|
+|12.|Using data sources in Spring apps|📖|
+|13.|Using transactions in Spring apps|📖|
+|14.|Implementing data persistence with Spring Data|📖|
+|15.|Testing your Spring app|📖|
