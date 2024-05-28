@@ -3,7 +3,7 @@ Reading Plan 📘
 |Chapter|Name|Status|
 |--|----|---------|
 |1.|[Spring in the real world](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Spring/SpringCore/SpringStartHere/recource/Chapter-1.%20Spring%20in%20the%20Real%20World.pdf) |✔️|
-|2.|The Spring context: Defining beans|✔️|
+|2.|[The Spring context: Defining beans](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Spring/SpringCore/SpringStartHere/recource/Chapter-2.%20The%20Spring%20%D0%A1ontext_%20Defining%20Beans.pptx.pdf)|✔️|
 |3.|The Spring context: Wiring beans|✔️|
 |4.|The Spring context: Using abstractions|✔️|
 |5.|The Spring context: Bean scopes and life cycle|📖|
