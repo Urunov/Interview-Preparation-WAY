@@ -1,19 +1,19 @@
 Reading Plan 📘
 
-|Chapter|Name|Status|
-|--|----|---------|
-|1.|[Spring in the real world](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Spring/SpringCore/SpringStartHere/recource/Chapter-1.%20Spring%20in%20the%20Real%20World.pdf) |✔️|
-|2.|[The Spring context: Defining beans](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Spring/SpringCore/SpringStartHere/recource/Chapter-2.%20The%20Spring%20%D0%A1ontext_%20Defining%20Beans.pptx.pdf)|✔️|
-|3.|The Spring context: Wiring beans|✔️|
-|4.|The Spring context: Using abstractions|✔️|
-|5.|The Spring context: Bean scopes and life cycle|✔️|
-|6.|Using aspects with Spring AOP|✔️|
-|7.|Understanding Spring Boot and Spring MVC|✔️|
-|8.|Implementing web apps with Spring Boot and Spring MVC|✔️|
-|9.|Using the Spring web scopes|✔️|
-|10.|Implementing REST services|✔️|
-|11.|Consuming REST endpoints|📖|
-|12.|Using data sources in Spring apps|📖|
-|13.|Using transactions in Spring apps|📖|
-|14.|Implementing data persistence with Spring Data|📖|
-|15.|Testing your Spring app|📖|
+|Chapter| Name                                                                                                                                                                                                                   |Status|
+|--|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+|1.| [Spring in the real world](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Spring/SpringCore/SpringStartHere/recource/Chapter-1.%20Spring%20in%20the%20Real%20World.pdf)                         |✔️|
+|2.| [The Spring context: Defining beans](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Spring/SpringCore/SpringStartHere/recource/Chapter-2.%20The%20Spring%20Сontext_Defining%20Beans.pdf)        |✔️|
+|3.| [The Spring context: Wiring beans	](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Spring/SpringCore/SpringStartHere/recource/Chapter-3.%20The%20Spring%20context%20Wiring%20beans.pdf)                |✔️|
+|4.| [The Spring context: Using abstractions](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Spring/SpringCore/SpringStartHere/recource/Chapter-4.%20Spring%20context%20Using%20abstractions.pdf)               |✔️|
+|5.| [The Spring context: Bean scopes and life cycle](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Spring/SpringCore/SpringStartHere/recource/Chapter-5.%20The%20Spring%20context_Bean%20scopes%20and%20life%20cycle.pdf) |✔️|
+|6.| [Using aspects with Spring AOP](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Spring/SpringCore/SpringStartHere/recource/Chapter-6.%20Using%20aspects%20with%20Spring%20AOP.pdf)                       |✔️|
+|7.| [Understanding Spring Boot and Spring MVC](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Spring/SpringCore/SpringStartHere/recource/Chapter-7.%20Understanding%20Spring%20Boot%20and%20Spring%20MVC.pdf)                     |✔️|
+|8.| [Implementing web apps with Spring Boot and Spring MVC](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Spring/SpringCore/SpringStartHere/recource/Chapter-8.%20Implementing%20web%20apps%20with%20Spring%20Boot%20and%20Spring%20MVC.pdf)                   |✔️|
+|9.| [Using the Spring web scopes](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Spring/SpringCore/SpringStartHere/recource/Chapter-9.%20Using%20the%20Spring%20web%20scopes.pdf)                        |✔️|
+|10.| [Implementing REST services](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Spring/SpringCore/SpringStartHere/recource/Chapter-10.%20Implementing%20REST%20Services.pdf)                        |✔️|
+|11.| [Consuming REST endpoints](https://github.com/Urunov/Interview-Preparation-WAY/blob/master/Books/Spring/SpringCore/SpringStartHere/recource/Chapter-11.%20Consuming%20REST%20Endpoints.pdf)                         |✔️|
+|12.| Using data sources in Spring apps                                                                                                                                                                                      |📖|
+|13.| Using transactions in Spring apps                                                                                                                                                                                      |📖|
+|14.| Implementing data persistence with Spring Data                                                                                                                                                                         |📖|
+|15.| Testing your Spring app                                                                                                                                                                                                |📖|
