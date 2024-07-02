@@ -17,6 +17,7 @@ import uz.shakhobiddin.entity.ResponseSaveEntity;
 import uz.shakhobiddin.exp.AppBadException;
 import uz.shakhobiddin.repository.ResponseSaveRepository;
 
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.FileWriter;
@@ -34,6 +35,10 @@ import java.util.Map;
 public class ResponseSaveService {
     private final ResponseSaveRepository responseSaveRepository;
     private final RestTemplate restTemplate;
+    private static final String BASE_FOLDER_PATH = "Folder/";
+    private static final String CSV_FOLDER_PATH = BASE_FOLDER_PATH + "csv/";
+    private static final String PDF_FOLDER_PATH = BASE_FOLDER_PATH + "pdf/";
+    private static final String EXCEL_FOLDER_PATH = BASE_FOLDER_PATH + "excel/";
 
     public ResponseSaveService(ResponseSaveRepository responseSaveRepository, RestTemplate restTemplate) {
         this.responseSaveRepository = responseSaveRepository;
@@ -41,20 +46,25 @@ public class ResponseSaveService {
     }
 
     public void fetchAndSaveData(String url) {
-        //Get data from given url via RestTemplate
+        // Get data from given url via RestTemplate
         if (!url.startsWith("http://") && !url.startsWith("https://")) {
             url = "http://" + url;
         }
         List<Map<String, Object>> responseData = restTemplate.getForObject(url, List.class);
-        //check request
+        // Check request
         if (responseData != null && !responseData.isEmpty()) {
-            //csv file save
+            // Ensure the folders exist
+            new File(CSV_FOLDER_PATH).mkdirs();
+            new File(PDF_FOLDER_PATH).mkdirs();
+            new File(EXCEL_FOLDER_PATH).mkdirs();
+
+            // CSV file save
             saveDataToCsv(responseData);
-            //date base save
+            // Database save
             saveDataToDataBase(responseData);
-            //pdf file save
+            // PDF file save
             saveDataToPdf(responseData);
-            //xlsx file save
+            // XLSX file save
             saveDataToExcel(responseData);
         } else {
             throw new AppBadException("No data found at the provided URL.");
@@ -62,10 +72,10 @@ public class ResponseSaveService {
     }
 
     private void saveDataToDataBase(List<Map<String, Object>> responseData) {
-        //Save to date base
+        // Save to database
         for (Map<String, Object> item : responseData) {
             ResponseSaveEntity entity = new ResponseSaveEntity();
-            entity.setFromDate((LocalDate) item.get("fromDate"));    //fromDate, toDate, description => keylar
+            entity.setFromDate((LocalDate) item.get("fromDate"));    // fromDate, toDate, description => keys
             entity.setToDate((LocalDate) item.get("toDate"));
             entity.setDescription((String) item.get("description"));
             responseSaveRepository.save(entity);
@@ -73,9 +83,9 @@ public class ResponseSaveService {
     }
 
     private void saveDataToCsv(List<Map<String, Object>> data) {
-        //write data to csv file
+        // Write data to CSV file
         String[] headers = data.get(0).keySet().toArray(new String[0]);
-        try (CSVWriter writer = new CSVWriter(new FileWriter("allservices-" + LocalDate.now() + ".csv"))) {
+        try (CSVWriter writer = new CSVWriter(new FileWriter(CSV_FOLDER_PATH + "allservices-" + LocalDate.now() + ".csv"))) {
             writer.writeNext(headers);
             for (Map<String, Object> row : data) {
                 String[] values = row.values().stream()
@@ -91,7 +101,7 @@ public class ResponseSaveService {
     public void saveDataToPdf(List<Map<String, Object>> data) {
         PdfWriter writer;
         try {
-            writer = new PdfWriter("allservices-" + LocalDate.now() + ".pdf");
+            writer = new PdfWriter(PDF_FOLDER_PATH + "allservices-" + LocalDate.now() + ".pdf");
         } catch (FileNotFoundException e) {
             throw new RuntimeException(e);
         }
@@ -99,14 +109,14 @@ public class ResponseSaveService {
         Document document = new Document(pdf);
 
         if (!data.isEmpty()) {
-            // Headerlar
+            // Headers
             String[] headers = data.get(0).keySet().toArray(new String[0]);
             Table table = new Table(headers.length);
             for (String header : headers) {
                 table.addCell(new Paragraph(header));
             }
 
-            // Ma'lumotlar
+            // Data
             for (Map<String, Object> row : data) {
                 for (String header : headers) {
                     table.addCell(new Paragraph(String.valueOf(row.get(header))));
@@ -120,7 +130,7 @@ public class ResponseSaveService {
     }
 
     public void saveDataToExcel(List<Map<String, Object>> data) {
-        Workbook workbook = new XSSFWorkbook();
+        XSSFWorkbook workbook = new XSSFWorkbook();
         Sheet sheet = workbook.createSheet("allservices-" + LocalDate.now() + ".xlsx");
         if (!data.isEmpty()) {
             String[] headers = data.get(0).keySet().toArray(new String[0]);
@@ -138,7 +148,7 @@ public class ResponseSaveService {
                 }
             }
         }
-        try (FileOutputStream fileOut = new FileOutputStream("allservices-" + LocalDate.now() + ".xlsx")) {
+        try (FileOutputStream fileOut = new FileOutputStream(EXCEL_FOLDER_PATH + "allservices-" + LocalDate.now() + ".xlsx")) {
             workbook.write(fileOut);
         } catch (IOException e) {
             throw new RuntimeException(e);
