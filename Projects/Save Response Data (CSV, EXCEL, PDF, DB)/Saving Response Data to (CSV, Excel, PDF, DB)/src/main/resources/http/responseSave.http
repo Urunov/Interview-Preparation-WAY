@@ -1,0 +1,4 @@
+GET localhost:8081/save/fetch-and-save?url=localhost:8090/card/history/123
+
+### OR
+#GET localhost:8081/save/fetch-and-save?url=https://cat-fact.herokuapp.com/facts
