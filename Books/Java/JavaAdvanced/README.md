@@ -13,6 +13,7 @@ Advanced Java is everything that goes beyond Core Java – most importantly the 
 |5. |Enterprise Java Microservice| [url](https://github.com/Urunov/Interview-Preparation-WAY/tree/master/Books/Java/JavaAdvanced/EnterpriceJavaMicroservice)|⌛|
 |6. |Java Persistence With Hibernate| [url](https://github.com/Urunov/Interview-Preparation-WAY/tree/master/Books/Java/JavaAdvanced/JavaPersistenceWithHibernate)|⌛|
 |7. |Server-Based Java Programming| [url](https://github.com/Urunov/Interview-Preparation-WAY/tree/master/Books/Java/JavaAdvanced/Server-BasedJavaProgramming)|⌛|
+|8.|Effective Java (3rd)  | [url](https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/)|📖|
 
 
 [Back 🔙](https://github.com/Urunov/Interview-Preparation-WAY/tree/master/Books/Java)
